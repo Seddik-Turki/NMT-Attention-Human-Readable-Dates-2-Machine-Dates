@@ -6,6 +6,8 @@ This project implements a Neural Machine Translation (NMT) model designed to tra
 
 The main objective is to convert various date representations, such as "3 May 1979" or "21th of August 2016", into a standardized format (YYYY-MM-DD), making it easier for machines to interpret and process dates.
 
+The code of the project can be found in the `NMT with Attention Translating Human Readable Dates Into Machine Readable Dates.ipynb` Notebook
+
 ## Features
 
 - Translates a variety of date formats into a consistent format.
